@@ -1,0 +1,801 @@
+{
+  "jds": {
+    "431fb534292a3aad": {
+      "id": "431fb534292a3aad",
+      "source_type": "jd",
+      "source_file": "Google LLC - Data Scientist.pdf",
+      "company": "Google LLC",
+      "role": "Data Scientist",
+      "skills": [
+        {
+          "skill_name": "SQL",
+          "category_code": "SQL",
+          "evidence": "Write efficient, production-grade SQL against very large datasets, including schema design and query optimization",
+          "confidence": "high"
+        },
+        {
+          "skill_name": "Machine Learning",
+          "category_code": "AI",
+          "evidence": "Build and evaluate predictive models, applying sound statistical judgment",
+          "confidence": "high"
+        },
+        {
+          "skill_name": "Communication",
+          "category_code": "CLOUD",
+          "evidence": "Present findings clearly to both technical and non-technical stakeholders",
+          "confidence": "high"
+        }
+      ],
+      "raw_text": "Google LLC \u2014 Data Scientist \nRole Category: Data Scientist \n Bengaluru, India \u00b7 Full-Time \u00b7 \u20b928,00,000 CTC Annual performance bonus and stock grants \nRole Overview \nAnalyze massive datasets to extract insights, build predictive models, and support product \nand business decisions. You'll work closely with engineering and product teams to design \nexperiments, evaluate metrics, and deploy data-driven solutions. \nKey Responsibilities \n\u2022 Design and run experiments (A/B tests) and interpret their results rigorously \n\u2022 Write efficient, production-grade SQL against very large datasets, including schema \ndesign and query optimization \n\u2022 Build and evaluate predictive models, applying sound statistical judgment \n\u2022 Partner with engineering and product teams to turn analysis into shipped features \n\u2022 Present findings clearly to both technical and non-technical stakeholders \nWhat We're Looking For \n\u2022 Strong SQL skills \u2014 writing and optimizing complex queries, understanding indexing, \nand designing a schema for event or telemetry data \n\u2022 Solid quantitative and analytical reasoning \u2014 comfortable interpreting experiment \nresults, probability, and metrics under ambiguity \n\u2022 Foundational machine learning knowledge: bias-variance tradeoff, regression vs. \nclassification, how gradient descent works, and how to recognize overfitting \n\u2022 Excellent communication skills \u2014 able to explain a complex model or a surprising \nresult to a product manager in plain language, and defend assumptions when \nchallenged \n\u2022 A track record, academic or applied, of turning a messy dataset into a clear, defensible \ninsight \nNice to Have \nExperience with a BI/visualization tool; exposure to experimentation platforms; a portfolio of \napplied data projects. \nBenefits \nHealth coverage, paid parental leave, learning programs, RSUs, flexible work arrangements.",
+      "missing_fields": [],
+      "warnings": [],
+      "extraction_method": "ollama"
+    },
+    "ab252310bcfa3658": {
+      "id": "ab252310bcfa3658",
+      "source_type": "jd",
+      "source_file": "Google LLC - Software Engineer.pdf",
+      "company": "Google LLC",
+      "role": "Software Engineer (SWE)",
+      "skills": [
+        {
+          "skill_name": "Data Structures and Algorithms",
+          "category_code": "DSA",
+          "evidence": "Strong grasp of data structures and algorithms, and the ability to reason about time and space complexity under pressure",
+          "confidence": "high"
+        },
+        {
+          "skill_name": "Operating Systems Fundamentals",
+          "category_code": "OS",
+          "evidence": "Hands-on programming ability \u2014 you can turn a problem statement into working, efficient code quickly",
+          "confidence": "high"
+        },
+        {
+          "skill_name": "Networking Concepts",
+          "category_code": "NETW",
+          "evidence": "Working knowledge of operating systems fundamentals (processes, threads, virtual memory) and core networking concepts (TCP/UDP, HTTP, how a web request actually travels)",
+          "confidence": "high"
+        },
+        {
+          "skill_name": "Object-Oriented Design",
+          "category_code": "OOD",
+          "evidence": "Experience or coursework in object-oriented design and common design patterns, with an eye for extensible, maintainable architecture",
+          "confidence": "high"
+        },
+        {
+          "skill_name": "System Design at Scale",
+          "category_code": "SYSD",
+          "evidence": "Comfort reasoning about system design at scale \u2014 able to sketch how a large distributed system like a URL shortener or a file storage service might be built",
+          "confidence": "high"
+        },
+        {
+          "skill_name": "Software Engineering Fundamentals",
+          "category_code": "SWE",
+          "evidence": "Solid software engineering fundamentals: testing strategy, code review habits, awareness of technical debt, and basic CI/CD concepts",
+          "confidence": "high"
+        }
+      ],
+      "raw_text": "Google LLC \u2014 Software Engineer (SWE) \nRole Category: SDE \u00b7 Product Engineering \n Bengaluru, India (Hybrid) \u00b7 Full-Time \u00b7 \u20b932,00,000 CTC Joining bonus, annual performance \nbonus, stock grants (RSUs) \nRole Overview \nDesign, develop, test, and maintain large-scale distributed systems that power Google's \nproducts such as Search, Ads, Maps, and Cloud. You'll write production code, participate in \ndesign discussions, and help keep systems fast, reliable, and secure at massive scale. \nKey Responsibilities \n\u2022 Design and implement backend services and APIs that operate reliably at Google \nscale \n\u2022 Write clean, well-tested, maintainable code and participate in code review \n\u2022 Take part in system design discussions for new features and infrastructure \n\u2022 Diagnose and resolve performance and reliability issues in production \n\u2022 Collaborate closely with cross-functional partners across product, design, and SRE \nWhat We're Looking For \n\u2022 Strong grasp of data structures and algorithms, and the ability to reason about time \nand space complexity under pressure \n\u2022 Hands-on programming ability \u2014 you can turn a problem statement into working, \nefficient code quickly \n\u2022 Working knowledge of operating systems fundamentals (processes, threads, virtual \nmemory) and core networking concepts (TCP/UDP, HTTP, how a web request actually \ntravels) \n\u2022 Experience or coursework in object-oriented design and common design patterns, with \nan eye for extensible, maintainable architecture \n\u2022 Comfort reasoning about system design at scale \u2014 able to sketch how a large \ndistributed system like a URL shortener or a file storage service might be built \n\u2022 Solid software engineering fundamentals: testing strategy, code review habits, \nawareness of technical debt, and basic CI/CD concepts \n\u2022 Clear written and verbal communication \u2014 able to explain a technical tradeoff to \nengineers and non-engineers alike, and to disagree productively with a teammate \nNice to Have \nPrior internship experience on a large codebase; open-source contributions; exposure to \ndistributed systems in production. \nBenefits \nComprehensive health insurance, free meals, wellness programs, generous leave policy, \nRSUs, relocation assistance.",
+      "missing_fields": [],
+      "warnings": [],
+      "extraction_method": "ollama"
+    },
+    "856d545f5e2651f2": {
+      "id": "856d545f5e2651f2",
+      "source_type": "jd",
+      "source_file": "Microsoft - Data Analyst.pdf",
+      "company": "Microsoft Corporation",
+      "role": "Data Analyst",
+      "skills": [
+        {
+          "skill_name": "Strong, practical SQL",
+          "category_code": "SQL",
+          "evidence": "Write and optimize SQL queries against large production datasets",
+          "confidence": "high"
+        },
+        {
+          "skill_name": "Solid quantitative reasoning",
+          "category_code": "CLOUD",
+          "evidence": "Interpreting trends, sampling, probability, and reasoning with data tables under ambiguity",
+          "confidence": "high"
+        },
+        {
+          "skill_name": "Basic applied statistics/ML literacy",
+          "category_code": "CLOUD",
+          "evidence": "Detecting and explaining anomalies in usage or business metrics; Communicating insights clearly to non-technical stakeholders and defending your methodology",
+          "confidence": "high"
+        },
+        {
+          "skill_name": "Excellent stakeholder communication",
+          "category_code": "CLOUD",
+          "evidence": "Translating a dashboard or an analysis into a decision a non-technical leader can act on",
+          "confidence": "high"
+        }
+      ],
+      "raw_text": "Microsoft Corporation \u2014 Data Analyst \nRole Category: Data Analyst \n Hyderabad, India \u00b7 Full-Time \u00b7 \u20b918,00,000 CTC Annual performance bonus and stock awards \nRole Overview \nWe're looking for a Data Analyst to turn product and business data into decisions. You'll \nbuild dashboards, define metrics, and work directly with stakeholders across Microsoft. \nKey Responsibilities \n\u2022 Write and optimize SQL queries against large production datasets \n\u2022 Design schemas for telemetry and usage data, and know when to normalize vs. \ndenormalize \n\u2022 Build dashboards and reporting that stakeholders actually use \n\u2022 Detect and explain anomalies in usage or business metrics \n\u2022 Communicate insights clearly to non-technical stakeholders and defend your \nmethodology \nWhat We're Looking For \n\u2022 Strong, practical SQL \u2014 from a simple monthly-active-user query to schema design \nand index-aware query optimization \n\u2022 Solid quantitative reasoning \u2014 interpreting trends, sampling, probability, and reasoning \nwith data tables under ambiguity \n\u2022 Basic applied statistics/ML literacy: regression vs. classification, what overfitting \nmeans, and how to sanity-check a model's output \n\u2022 Excellent stakeholder communication \u2014 translating a dashboard or an analysis into a \ndecision a non-technical leader can act on \n\u2022 Comfort with ambiguous or incomplete requirements, and the initiative to clarify them \nNice to Have \nExperience with a visualization tool (Power BI or similar); a portfolio of dashboards or \nanalyses; prior internship in an analytics role. \nBenefits \nHealth coverage, RSUs, flexible work options, learning programs, paid leave.",
+      "missing_fields": [],
+      "warnings": [],
+      "extraction_method": "ollama"
+    },
+    "24d9cfc57346e755": {
+      "id": "24d9cfc57346e755",
+      "source_type": "jd",
+      "source_file": "Microsoft - Software Engineer.pdf",
+      "company": "Microsoft Corporation",
+      "role": "Software Engineer",
+      "skills": [
+        {
+          "skill_name": "Strong data structures and algorithms fundamentals \u2014 hash maps, trees, and complexity analysis, applied confidently under time pressure",
+          "category_code": "DSA",
+          "evidence": "\u2022 Strong data structures and algorithms fundamentals \u2014 hash maps, trees, and complexity analysis, applied confidently under time pressure",
+          "confidence": "high"
+        },
+        {
+          "skill_name": "Practical coding skills \u2014 pattern matching, interval problems, and writing code that performs well on large inputs",
+          "category_code": "CLOUD",
+          "evidence": "\u2022 Practical coding skills \u2014 pattern matching, interval problems, and writing code that performs well on large inputs",
+          "confidence": "high"
+        },
+        {
+          "skill_name": "Working knowledge of operating systems (process scheduling, virtual memory, concurrency primitives) and core networking (REST APIs, timeouts, request lifecycle)",
+          "category_code": "OS",
+          "evidence": "\u2022 Working knowledge of operating systems (process scheduling, virtual memory, concurrency primitives) and core networking (REST APIs, timeouts, request lifecycle)",
+          "confidence": "high"
+        },
+        {
+          "skill_name": "Ability to design at the system level \u2014 sketch a cloud-based storage or notification service and reason about scalability and fault tolerance",
+          "category_code": "SWE",
+          "evidence": "\u2022 Ability to design at the system level \u2014 sketch a cloud-based storage or notification service and reason about scalability and fault tolerance",
+          "confidence": "high"
+        },
+        {
+          "skill_name": "Understanding of object-oriented design and SOLID principles, and how to design software that's easy to extend",
+          "category_code": "SWE",
+          "evidence": "\u2022 Understanding of object-oriented design and SOLID principles, and how to design software that's easy to extend",
+          "confidence": "high"
+        },
+        {
+          "skill_name": "Software engineering maturity \u2014 clean code habits, a real testing strategy, and comfort talking about technical debt honestly",
+          "category_code": "SWE",
+          "evidence": "\u2022 Software engineering maturity \u2014 clean code habits, a real testing strategy, and comfort talking about technical debt honestly",
+          "confidence": "high"
+        },
+        {
+          "skill_name": "Strong communication \u2014 able to describe a hard problem you solved and how you collaborate across teams",
+          "category_code": "COMM",
+          "evidence": "\u2022 Strong communication \u2014 able to describe a hard problem you solved and how you collaborate across teams",
+          "confidence": "high"
+        }
+      ],
+      "raw_text": "Microsoft Corporation \u2014 Software Engineer \nRole Category: SDE \n Hyderabad, India \u00b7 Full-Time \u00b7 \u20b928,00,000 CTC Joining bonus, annual performance bonus, stock \nawards (RSUs) \nRole Overview \nJoin a team building scalable software across Microsoft products such as Azure, Microsoft \n365, and Windows. You'll own features end to end, from design through production. \nKey Responsibilities \n\u2022 Design, build, and maintain scalable, reliable software components \n\u2022 Participate in Agile ceremonies and design reviews with your team \n\u2022 Write clean, efficient code and hold a high bar in code review \n\u2022 Ensure reliability, security, and performance of the systems you own \n\u2022 Work cross-functionally with PM and design to refine requirements \nWhat We're Looking For \n\u2022 Strong data structures and algorithms fundamentals \u2014 hash maps, trees, and \ncomplexity analysis, applied confidently under time pressure \n\u2022 Practical coding skills \u2014 pattern matching, interval problems, and writing code that \nperforms well on large inputs \n\u2022 Working knowledge of operating systems (process scheduling, virtual memory, \nconcurrency primitives) and core networking (REST APIs, timeouts, request lifecycle) \n\u2022 Ability to design at the system level \u2014 sketch a cloud-based storage or notification \nservice and reason about scalability and fault tolerance \n\u2022 Understanding of object-oriented design and SOLID principles, and how to design \nsoftware that's easy to extend \n\u2022 Software engineering maturity \u2014 clean code habits, a real testing strategy, and \ncomfort talking about technical debt honestly \n\u2022 Strong communication \u2014 able to describe a hard problem you solved and how you \ncollaborate across teams \nNice to Have \nExposure to cloud infrastructure (Azure or similar); contributions to a shared codebase in a \nteam setting. \nBenefits \nComprehensive health insurance, RSUs, flexible work arrangements, learning and \ncertification budget, wellness programs.",
+      "missing_fields": [],
+      "warnings": [],
+      "extraction_method": "ollama"
+    },
+    "1ca0e962619cdc4a": {
+      "id": "1ca0e962619cdc4a",
+      "source_type": "jd",
+      "source_file": "Oracle - Application Support Analyst.pdf",
+      "company": "Oracle Financial Services Software Limited",
+      "role": "Application Support Analyst",
+      "skills": [
+        {
+          "skill_name": "Basic SQL",
+          "category_code": "SQL",
+          "evidence": "Triage, investigate, and resolve incidents raised by banking clients within SLA",
+          "confidence": "high"
+        },
+        {
+          "skill_name": "Operating Systems and Linux fundamentals",
+          "category_code": "OS",
+          "evidence": "Query production databases to diagnose issues",
+          "confidence": "high"
+        },
+        {
+          "skill_name": "Basic Networking knowledge",
+          "category_code": "NETW",
+          "evidence": "What an IP address is, client-server architecture fundamentals, and what \u201clatency\u201d means in practice",
+          "confidence": "high"
+        },
+        {
+          "skill_name": "Strong quantitative and logical reasoning",
+          "category_code": "CLOUD",
+          "evidence": "Data interpretation from tables, arithmetic, and structured problem-solving",
+          "confidence": "high"
+        },
+        {
+          "skill_name": "Excellent communication skills",
+          "category_code": "COMM",
+          "evidence": "Communicate clearly and calmly with clients during incidents",
+          "confidence": "high"
+        }
+      ],
+      "raw_text": "Oracle Financial Services Software Limited \u2014 Application Support \nAnalyst \nRole Category: Support / Operations \n Bengaluru / Chennai, India \u00b7 Full-Time \u00b7 \u20b94,50,000 CTC Shift allowance and annual \nperformance bonus \nRole Overview \nProvide L2/L3 application support for Oracle Financial Services products used by global \nbanking clients \u2014 a support and troubleshooting role with real client-facing responsibility, not \na pure development role. \nKey Responsibilities \n\u2022 Triage, investigate, and resolve incidents raised by banking clients within SLA \n\u2022 Query production databases to diagnose issues \n\u2022 Coordinate with development teams on escalations that require a code fix \n\u2022 Monitor logs and batch/real-time processes to catch issues early \n\u2022 Communicate clearly and calmly with clients during incidents \nWhat We're Looking For \n\u2022 Comfort with basic SQL \u2014 simple SELECT/WHERE queries and an understanding of \nprimary keys \n\u2022 Operating systems and Linux fundamentals \u2014 basic command-line usage, what a log \nfile is, batch vs. real-time processing \n\u2022 Basic networking knowledge \u2014 what an IP address is, client-server architecture \nfundamentals, and what \u201clatency\u201d means in practice \n\u2022 Strong quantitative and logical reasoning \u2014 data interpretation from tables, arithmetic, \nand structured problem-solving \n\u2022 Excellent communication skills \u2014 able to explain a technical issue to a non-technical \nclient, stay calm during an escalation, and document what happened clearly \n\u2022 Willingness to work in shifts and directly support global clients \nNice to Have \nPrior exposure to a ticketing/incident system; coursework in networking or systems \nadministration. \nBenefits \nMedical insurance, night shift allowance, transport facility, paid leaves.",
+      "missing_fields": [],
+      "warnings": [],
+      "extraction_method": "ollama"
+    },
+    "f91a4b67b86bbd92": {
+      "id": "f91a4b67b86bbd92",
+      "source_type": "jd",
+      "source_file": "Oracle - Associate Software Engineer.pdf",
+      "company": "Oracle Financial Services Software Limited",
+      "role": "Associate Software Engineer",
+      "skills": [
+        {
+          "skill_name": "Solid programming fundamentals",
+          "category_code": "SWE",
+          "evidence": "able to read and predict the output of code, and solve basic string/array manipulation problems confidently",
+          "confidence": "high"
+        },
+        {
+          "skill_name": "Practical SQL knowledge",
+          "category_code": "SQL",
+          "evidence": "correct SELECT/WHERE syntax, understanding of DELETE vs. TRUNCATE, and comfort writing simple queries against a relational schema",
+          "confidence": "high"
+        },
+        {
+          "skill_name": "Core data structures knowledge",
+          "category_code": "DSA",
+          "evidence": "arrays vs. linked lists, when to use a stack or a queue, and basic algorithmic problem-solving",
+          "confidence": "high"
+        },
+        {
+          "skill_name": "Object-oriented programming fundamentals",
+          "category_code": "OOD",
+          "evidence": "inheritance, polymorphism, abstract classes vs. interfaces, explained with real examples",
+          "confidence": "high"
+        },
+        {
+          "skill_name": "Operating systems basics",
+          "category_code": "OS",
+          "evidence": "what a process is, fundamentals of multithreading and memory management",
+          "confidence": "high"
+        },
+        {
+          "skill_name": "Strong quantitative aptitude",
+          "category_code": "SQL",
+          "evidence": "time-and-work, ratios, percentages, and logical/seating-arrangement style reasoning",
+          "confidence": "high"
+        },
+        {
+          "skill_name": "Clear communication and a collaborative attitude",
+          "category_code": "COMM",
+          "evidence": "comfortable explaining your final-year project and working under deadline pressure",
+          "confidence": "high"
+        },
+        {
+          "skill_name": "Awareness of the software development lifecycle and the difference between Agile and Waterfall",
+          "category_code": "SWE",
+          "evidence": "willingness to work in shifts or from client locations. ",
+          "confidence": "high"
+        },
+        {
+          "skill_name": "Nice to Have: Coursework or a project in banking/financial systems",
+          "category_code": "NETW",
+          "evidence": "Coursework or a project in banking/financial systems; willingness to work in shifts or from client locations. ",
+          "confidence": "high"
+        }
+      ],
+      "raw_text": "Oracle Financial Services Software Limited \u2014 Associate Software \nEngineer \nRole Category: SDE \n Bengaluru / Mumbai, India \u00b7 Full-Time \u00b7 \u20b95,50,000 CTC Annual performance bonus based on \nindividual and team performance \nRole Overview \nJoin the team building and maintaining enterprise-grade banking and financial services \nproducts such as FLEXCUBE and OBDX, used by banks globally. You'll work across \ndevelopment, customization, and support in an Agile environment. \nKey Responsibilities \n\u2022 Develop, customize, and maintain modules within our banking product suite \n\u2022 Write and debug code, and interact directly with relational databases \n\u2022 Perform unit testing and collaborate closely with QA \n\u2022 Participate in Agile ceremonies and coordinate with product teams \n\u2022 Document your work clearly for future maintainers \nWhat We're Looking For \n\u2022 Solid programming fundamentals \u2014 able to read and predict the output of code, and \nsolve basic string/array manipulation problems confidently \n\u2022 Practical SQL knowledge \u2014 correct SELECT/WHERE syntax, understanding of \nDELETE vs. TRUNCATE, and comfort writing simple queries against a relational \nschema \n\u2022 Core data structures knowledge \u2014 arrays vs. linked lists, when to use a stack or a \nqueue, and basic algorithmic problem-solving \n\u2022 Object-oriented programming fundamentals \u2014 inheritance, polymorphism, abstract \nclasses vs. interfaces, explained with real examples \n\u2022 Operating systems basics \u2014 what a process is, fundamentals of multithreading and \nmemory management \n\u2022 Strong quantitative aptitude \u2014 time-and-work, ratios, percentages, and logical/seating-\narrangement style reasoning \n\u2022 Clear communication and a collaborative attitude \u2014 comfortable explaining your final-\nyear project and working under deadline pressure \n\u2022 Awareness of the software development lifecycle and the difference between Agile and \nWaterfall, and why documentation matters \nNice to Have \nCoursework or a project in banking/financial systems; willingness to work in shifts or from \nclient locations. \nBenefits \nHealth insurance, provident fund, gratuity, learning and certification programs, subsidized \nmeals.",
+      "missing_fields": [],
+      "warnings": [],
+      "extraction_method": "ollama"
+    }
+  },
+  "resumes": {
+    "12acfcd4f1b122f9": {
+      "id": "12acfcd4f1b122f9",
+      "source_type": "resume",
+      "source_file": "Rohan Verma.pdf",
+      "company": null,
+      "role": null,
+      "skills": [
+        {
+          "skill_name": "Python",
+          "category_code": "COD",
+          "evidence": "Explicitly stated: Python",
+          "confidence": "high"
+        },
+        {
+          "skill_name": "C++",
+          "category_code": "COD",
+          "evidence": "Explicitly stated: C++",
+          "confidence": "high"
+        },
+        {
+          "skill_name": "go",
+          "category_code": "COD",
+          "evidence": "Explicitly stated: go",
+          "confidence": "high"
+        },
+        {
+          "skill_name": "programming",
+          "category_code": "COD",
+          "evidence": "Explicitly stated: programming",
+          "confidence": "high"
+        },
+        {
+          "skill_name": "Data Structures",
+          "category_code": "DSA",
+          "evidence": "Explicitly stated: Data Structures",
+          "confidence": "high"
+        },
+        {
+          "skill_name": "Algorithms",
+          "category_code": "DSA",
+          "evidence": "Explicitly stated: Algorithms",
+          "confidence": "high"
+        },
+        {
+          "skill_name": "Object-Oriented",
+          "category_code": "OOD",
+          "evidence": "Explicitly stated: Object-Oriented",
+          "confidence": "high"
+        },
+        {
+          "skill_name": "design patterns",
+          "category_code": "OOD",
+          "evidence": "Explicitly stated: design patterns",
+          "confidence": "high"
+        },
+        {
+          "skill_name": "Machine Learning",
+          "category_code": "AI",
+          "evidence": "Explicitly stated: Machine Learning",
+          "confidence": "high"
+        },
+        {
+          "skill_name": "Docker",
+          "category_code": "CLOUD",
+          "evidence": "Explicitly stated: Docker",
+          "confidence": "high"
+        },
+        {
+          "skill_name": "SQL",
+          "category_code": "SQL",
+          "evidence": "Explicitly stated: SQL",
+          "confidence": "high"
+        },
+        {
+          "skill_name": "Software Engineering",
+          "category_code": "SWE",
+          "evidence": "Explicitly stated: Software Engineering",
+          "confidence": "high"
+        },
+        {
+          "skill_name": "Git",
+          "category_code": "SWE",
+          "evidence": "Explicitly stated: Git",
+          "confidence": "high"
+        },
+        {
+          "skill_name": "System Design",
+          "category_code": "SYSD",
+          "evidence": "Explicitly stated: System Design",
+          "confidence": "high"
+        },
+        {
+          "skill_name": "Operating Systems",
+          "category_code": "OS",
+          "evidence": "Explicitly stated: Operating Systems",
+          "confidence": "high"
+        }
+      ],
+      "raw_text": "RADIX Talent Match Hackathon \u00b7 Test Data \nPage 1 \nRohan Verma \nStrong all-rounder \u2014 competitive fit across nearly every role in this pack \nEducation \nB.Tech, Computer Science and Engineering, Class of 2026 \u2014 CGPA 9.1 / 10 \nTechnical Skills \nC++, Python, SQL, Data Structures & Algorithms, System Design, Object-Oriented Design, \nOperating Systems, basic Machine Learning, Git, Docker \nProjects \n\u2022 Designed and built a scalable notification service (pub-sub architecture, horizontally-\nscalable workers) as a personal system-design project, documented with architecture \ndiagrams \n\u2022 Built a recommendation engine using collaborative filtering on a movie-ratings dataset, \nevaluated with precision/recall \n\u2022 Wrote a technical blog series on object-oriented design patterns used in real-world \nsystems \nHackathons / Internships \n\u2022 Winner, national inter-college hackathon \u2014 built a real-time collaborative document editor \n\u2022 Software Engineering intern at a Series-B startup \u2014 shipped a feature end-to-end \nincluding tests and CI \nCertifications \nSelf-taught via applied projects; no formal certifications listed \nAchievements \n500+ problems solved across competitive programming platforms; open-source contributor (2 \nmerged PRs to a mid-size Python library) \nPreferred Roles \nSoftware Engineer, Data Scientist, Backend Engineer",
+      "missing_fields": [
+        "email"
+      ],
+      "warnings": []
+    },
+    "1bf068a8d5e81011": {
+      "id": "1bf068a8d5e81011",
+      "source_type": "resume",
+      "source_file": "Karthik Subramaniam.pdf",
+      "company": null,
+      "role": null,
+      "skills": [
+        {
+          "skill_name": "Python",
+          "category_code": "COD",
+          "evidence": "Explicitly stated: Python",
+          "confidence": "high"
+        },
+        {
+          "skill_name": "Java",
+          "category_code": "COD",
+          "evidence": "Explicitly stated: Java",
+          "confidence": "high"
+        },
+        {
+          "skill_name": "Go",
+          "category_code": "COD",
+          "evidence": "Explicitly stated: Go",
+          "confidence": "high"
+        },
+        {
+          "skill_name": "SQL",
+          "category_code": "SQL",
+          "evidence": "Explicitly stated: SQL",
+          "confidence": "high"
+        },
+        {
+          "skill_name": "testing",
+          "category_code": "SWE",
+          "evidence": "Explicitly stated: testing",
+          "confidence": "high"
+        }
+      ],
+      "raw_text": "Karthik Subramaniam \nData-leaning analyst \u2014 strong fit for Data Scientist / Data Analyst roles, weaker fit for pure \nSWE roles \nEducation \nB.Tech, Computer Science and Engineering, Class of 2026 \u2014 CGPA 8.2 / 10 \nTechnical Skills \nSQL, Python (pandas, scikit-learn), Power BI, Statistics, A/B testing basics, Excel, basic \nJava \nProjects \n\u2022 Built an end-to-end churn-prediction pipeline (SQL extraction \u2192 feature engineering \u2192 \nlogistic regression model) on a public e-commerce dataset \n\u2022 Designed a normalized schema and dashboard for a college event-management \nsystem, including anomaly detection on registration spikes \n\u2022 Ran and analyzed an A/B test simulation comparing two onboarding flows, presenting \nresults to a non-technical audience \nHackathons / Internships \n\u2022 Data Analytics intern at a fintech startup \u2014 built two recurring dashboards used by the \ngrowth team \n\u2022 Runner-up, inter-college data visualization competition \nCertifications \nGoogle Data Analytics Certificate \nAchievements \nPublished a short analysis write-up on a public dataset, featured in a college newsletter \nPreferred Roles \nData Analyst, Data Scientist",
+      "missing_fields": [
+        "email"
+      ],
+      "warnings": []
+    },
+    "2e88f8eb491258b0": {
+      "id": "2e88f8eb491258b0",
+      "source_type": "resume",
+      "source_file": "Ananya Rao.pdf",
+      "company": null,
+      "role": null,
+      "skills": [
+        {
+          "skill_name": "C++",
+          "category_code": "CLOUD",
+          "evidence": "Built a distributed URL-shortening service with a Redis-backed cache and a horizontally-scalable API layer as a capstone systems project",
+          "confidence": "high"
+        },
+        {
+          "skill_name": "Python",
+          "category_code": "CLOUD",
+          "evidence": "Implemented a multithreaded job scheduler in C++ simulating OS-level process scheduling algorithms (Round Robin, Priority, SJF)",
+          "confidence": "high"
+        },
+        {
+          "skill_name": "Java",
+          "category_code": "CLOUD",
+          "evidence": "Designed a parking-lot management system in Java using OOP design patterns (Factory, Strategy) as a design-practice exercise",
+          "confidence": "high"
+        },
+        {
+          "skill_name": "Data Structures & Algorithms",
+          "category_code": "CLOUD",
+          "evidence": "Built a distributed URL-shortening service with a Redis-backed cache and a horizontally-scalable API layer as a capstone systems project",
+          "confidence": "high"
+        },
+        {
+          "skill_name": "Operating Systems",
+          "category_code": "CLOUD",
+          "evidence": "Built a distributed URL-shortening service with a Redis-backed cache and a horizontally-scalable API layer as a capstone systems project",
+          "confidence": "high"
+        },
+        {
+          "skill_name": "Computer Networks",
+          "category_code": "CLOUD",
+          "evidence": "Built a distributed URL-shortening service with a Redis-backed cache and a horizontally-scalable API layer as a capstone systems project",
+          "confidence": "high"
+        },
+        {
+          "skill_name": "Object-Oriented Design",
+          "category_code": "CLOUD",
+          "evidence": "Built a distributed URL-shortening service with a Redis-backed cache and a horizontally-scalable API layer as a capstone systems project",
+          "confidence": "high"
+        },
+        {
+          "skill_name": "Git",
+          "category_code": "CLOUD",
+          "evidence": "Built a distributed URL-shortening service with a Redis-backed cache and a horizontally-scalable API layer as a capstone systems project",
+          "confidence": "high"
+        },
+        {
+          "skill_name": "Linux",
+          "category_code": "CLOUD",
+          "evidence": "Built a distributed URL-shortening service with a Redis-backed cache and a horizontally-scalable API layer as a capstone systems project",
+          "confidence": "high"
+        },
+        {
+          "skill_name": "Projects",
+          "category_code": "CLOUD",
+          "evidence": "- Built a distributed URL-shortening service with a Redis-backed cache and a horizontally-scalable API layer as a capstone systems project\n- Implemented a multithreaded job scheduler in C++ simulating OS-level process scheduling algorithms (Round Robin, Priority, SJF)\n- Designed a parking-lot management system in Java using OOP design patterns (Factory, Strategy) as a design-practice exercise",
+          "confidence": "high"
+        },
+        {
+          "skill_name": "Certifications",
+          "category_code": "CLOUD",
+          "evidence": "None listed",
+          "confidence": "high"
+        }
+      ],
+      "raw_text": "Ananya Rao \nSystems-leaning generalist \u2014 strong fit for SWE-heavy roles, weaker fit for data roles \nEducation \nB.Tech, Computer Science and Engineering, Class of 2026 \u2014 CGPA 8.6 / 10 \nTechnical Skills \nC++, Python, Java, Data Structures & Algorithms, Operating Systems, Computer Networks, \nObject-Oriented Design, Git, Linux \nProjects \n\u2022 Built a distributed URL-shortening service with a Redis-backed cache and a \nhorizontally-scalable API layer as a capstone systems project \n\u2022 Implemented a multithreaded job scheduler in C++ simulating OS-level process \nscheduling algorithms (Round Robin, Priority, SJF) \n\u2022 Designed a parking-lot management system in Java using OOP design patterns \n(Factory, Strategy) as a design-practice exercise \nHackathons / Internships \n\u2022 Finalist, national-level 24-hour hackathon \u2014 built a real-time chat backend \n\u2022 Summer intern, backend team at a mid-size product startup \u2014 shipped a rate-limiter \nused in production \nCertifications \nNone listed \nAchievements \nSolved 350+ problems on competitive programming platforms; mentors juniors on DSA \nthrough the college coding club \nPreferred Roles \nSoftware Engineer, Backend Engineer",
+      "missing_fields": [
+        "email"
+      ],
+      "warnings": [],
+      "extraction_method": "ollama"
+    }
+  },
+  "profiles": {
+    "profile-12acfcd4f1b122f9": {
+      "id": "profile-12acfcd4f1b122f9",
+      "resume_id": "12acfcd4f1b122f9",
+      "name": "RADIX Talent Match Hackathon \u00b7 Test Data",
+      "email": null,
+      "phone": null,
+      "education": [
+        "B.Tech, Computer Science and Engineering, Class of 2026 \u2014 CGPA 9.1 / 10"
+      ],
+      "skills": [
+        {
+          "skill_name": "Python",
+          "category_code": "COD",
+          "evidence": "Explicitly stated: Python",
+          "confidence": "high"
+        },
+        {
+          "skill_name": "C++",
+          "category_code": "COD",
+          "evidence": "Explicitly stated: C++",
+          "confidence": "high"
+        },
+        {
+          "skill_name": "go",
+          "category_code": "COD",
+          "evidence": "Explicitly stated: go",
+          "confidence": "high"
+        },
+        {
+          "skill_name": "programming",
+          "category_code": "COD",
+          "evidence": "Explicitly stated: programming",
+          "confidence": "high"
+        },
+        {
+          "skill_name": "Data Structures",
+          "category_code": "DSA",
+          "evidence": "Explicitly stated: Data Structures",
+          "confidence": "high"
+        },
+        {
+          "skill_name": "Algorithms",
+          "category_code": "DSA",
+          "evidence": "Explicitly stated: Algorithms",
+          "confidence": "high"
+        },
+        {
+          "skill_name": "Object-Oriented",
+          "category_code": "OOD",
+          "evidence": "Explicitly stated: Object-Oriented",
+          "confidence": "high"
+        },
+        {
+          "skill_name": "design patterns",
+          "category_code": "OOD",
+          "evidence": "Explicitly stated: design patterns",
+          "confidence": "high"
+        },
+        {
+          "skill_name": "Machine Learning",
+          "category_code": "AI",
+          "evidence": "Explicitly stated: Machine Learning",
+          "confidence": "high"
+        },
+        {
+          "skill_name": "Docker",
+          "category_code": "CLOUD",
+          "evidence": "Explicitly stated: Docker",
+          "confidence": "high"
+        },
+        {
+          "skill_name": "SQL",
+          "category_code": "SQL",
+          "evidence": "Explicitly stated: SQL",
+          "confidence": "high"
+        },
+        {
+          "skill_name": "Software Engineering",
+          "category_code": "SWE",
+          "evidence": "Explicitly stated: Software Engineering",
+          "confidence": "high"
+        },
+        {
+          "skill_name": "Git",
+          "category_code": "SWE",
+          "evidence": "Explicitly stated: Git",
+          "confidence": "high"
+        },
+        {
+          "skill_name": "System Design",
+          "category_code": "SYSD",
+          "evidence": "Explicitly stated: System Design",
+          "confidence": "high"
+        },
+        {
+          "skill_name": "Operating Systems",
+          "category_code": "OS",
+          "evidence": "Explicitly stated: Operating Systems",
+          "confidence": "high"
+        }
+      ],
+      "experience": [],
+      "projects": [
+        "\u2022 Designed and built a scalable notification service (pub-sub architecture, horizontally-",
+        "scalable workers) as a personal system-design project, documented with architecture",
+        "diagrams",
+        "\u2022 Built a recommendation engine using collaborative filtering on a movie-ratings dataset,",
+        "evaluated with precision/recall",
+        "\u2022 Wrote a technical blog series on object-oriented design patterns used in real-world",
+        "systems",
+        "Hackathons / Internships",
+        "\u2022 Winner, national inter-college hackathon \u2014 built a real-time collaborative document editor",
+        "\u2022 Software Engineering intern at a Series-B startup \u2014 shipped a feature end-to-end",
+        "including tests and CI"
+      ],
+      "hackathons": [],
+      "internships": [],
+      "certifications": [
+        "Self-taught via applied projects; no formal certifications listed"
+      ],
+      "preferred_roles": [],
+      "cv_file": "Rohan Verma.pdf",
+      "missing_fields": [
+        "email"
+      ],
+      "warnings": []
+    },
+    "profile-1bf068a8d5e81011": {
+      "id": "profile-1bf068a8d5e81011",
+      "resume_id": "1bf068a8d5e81011",
+      "name": "Karthik Subramaniam",
+      "email": null,
+      "phone": null,
+      "education": [
+        "B.Tech, Computer Science and Engineering, Class of 2026 \u2014 CGPA 8.2 / 10"
+      ],
+      "skills": [
+        {
+          "skill_name": "Python",
+          "category_code": "COD",
+          "evidence": "Explicitly stated: Python",
+          "confidence": "high"
+        },
+        {
+          "skill_name": "Java",
+          "category_code": "COD",
+          "evidence": "Explicitly stated: Java",
+          "confidence": "high"
+        },
+        {
+          "skill_name": "Go",
+          "category_code": "COD",
+          "evidence": "Explicitly stated: Go",
+          "confidence": "high"
+        },
+        {
+          "skill_name": "SQL",
+          "category_code": "SQL",
+          "evidence": "Explicitly stated: SQL",
+          "confidence": "high"
+        },
+        {
+          "skill_name": "testing",
+          "category_code": "SWE",
+          "evidence": "Explicitly stated: testing",
+          "confidence": "high"
+        }
+      ],
+      "experience": [],
+      "projects": [
+        "\u2022 Built an end-to-end churn-prediction pipeline (SQL extraction \u2192 feature engineering \u2192",
+        "logistic regression model) on a public e-commerce dataset",
+        "\u2022 Designed a normalized schema and dashboard for a college event-management",
+        "system, including anomaly detection on registration spikes",
+        "\u2022 Ran and analyzed an A/B test simulation comparing two onboarding flows, presenting",
+        "results to a non-technical audience",
+        "Hackathons / Internships",
+        "\u2022 Data Analytics intern at a fintech startup \u2014 built two recurring dashboards used by the",
+        "growth team",
+        "\u2022 Runner-up, inter-college data visualization competition"
+      ],
+      "hackathons": [],
+      "internships": [],
+      "certifications": [
+        "Google Data Analytics Certificate"
+      ],
+      "preferred_roles": [],
+      "cv_file": "Karthik Subramaniam.pdf",
+      "missing_fields": [
+        "email"
+      ],
+      "warnings": []
+    },
+    "profile-2e88f8eb491258b0": {
+      "id": "profile-2e88f8eb491258b0",
+      "resume_id": "2e88f8eb491258b0",
+      "name": "Ananya Rao",
+      "email": null,
+      "phone": null,
+      "education": [
+        "B.Tech in Computer Science and Engineering (Class of 2026) \u2014 CGPA: 8.6/10"
+      ],
+      "skills": [
+        {
+          "skill_name": "C++",
+          "category_code": "CLOUD",
+          "evidence": "Built a distributed URL-shortening service with a Redis-backed cache and a horizontally-scalable API layer as a capstone systems project",
+          "confidence": "high"
+        },
+        {
+          "skill_name": "Python",
+          "category_code": "CLOUD",
+          "evidence": "Implemented a multithreaded job scheduler in C++ simulating OS-level process scheduling algorithms (Round Robin, Priority, SJF)",
+          "confidence": "high"
+        },
+        {
+          "skill_name": "Java",
+          "category_code": "CLOUD",
+          "evidence": "Designed a parking-lot management system in Java using OOP design patterns (Factory, Strategy) as a design-practice exercise",
+          "confidence": "high"
+        },
+        {
+          "skill_name": "Data Structures & Algorithms",
+          "category_code": "CLOUD",
+          "evidence": "Built a distributed URL-shortening service with a Redis-backed cache and a horizontally-scalable API layer as a capstone systems project",
+          "confidence": "high"
+        },
+        {
+          "skill_name": "Operating Systems",
+          "category_code": "CLOUD",
+          "evidence": "Built a distributed URL-shortening service with a Redis-backed cache and a horizontally-scalable API layer as a capstone systems project",
+          "confidence": "high"
+        },
+        {
+          "skill_name": "Computer Networks",
+          "category_code": "CLOUD",
+          "evidence": "Built a distributed URL-shortening service with a Redis-backed cache and a horizontally-scalable API layer as a capstone systems project",
+          "confidence": "high"
+        },
+        {
+          "skill_name": "Object-Oriented Design",
+          "category_code": "CLOUD",
+          "evidence": "Built a distributed URL-shortening service with a Redis-backed cache and a horizontally-scalable API layer as a capstone systems project",
+          "confidence": "high"
+        },
+        {
+          "skill_name": "Git",
+          "category_code": "CLOUD",
+          "evidence": "Built a distributed URL-shortening service with a Redis-backed cache and a horizontally-scalable API layer as a capstone systems project",
+          "confidence": "high"
+        },
+        {
+          "skill_name": "Linux",
+          "category_code": "CLOUD",
+          "evidence": "Built a distributed URL-shortening service with a Redis-backed cache and a horizontally-scalable API layer as a capstone systems project",
+          "confidence": "high"
+        },
+        {
+          "skill_name": "Projects",
+          "category_code": "CLOUD",
+          "evidence": "- Built a distributed URL-shortening service with a Redis-backed cache and a horizontally-scalable API layer as a capstone systems project\n- Implemented a multithreaded job scheduler in C++ simulating OS-level process scheduling algorithms (Round Robin, Priority, SJF)\n- Designed a parking-lot management system in Java using OOP design patterns (Factory, Strategy) as a design-practice exercise",
+          "confidence": "high"
+        },
+        {
+          "skill_name": "Certifications",
+          "category_code": "CLOUD",
+          "evidence": "None listed",
+          "confidence": "high"
+        }
+      ],
+      "experience": [],
+      "projects": [],
+      "hackathons": [],
+      "internships": [],
+      "certifications": [],
+      "preferred_roles": [],
+      "cv_file": "Ananya Rao.pdf",
+      "missing_fields": [
+        "email"
+      ],
+      "warnings": []
+    }
+  }
+}

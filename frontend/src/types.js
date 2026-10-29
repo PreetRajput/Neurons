@@ -1,0 +1,15 @@
+export const categoryLabels = {
+  COD: "Coding",
+  DSA: "Data structures",
+  OOD: "Object-oriented design",
+  APTI: "Aptitude",
+  COMM: "Communication",
+  AI: "AI & ML",
+  CLOUD: "Cloud",
+  SQL: "SQL & databases",
+  SWE: "Software engineering",
+  SYSD: "System design",
+  NETW: "Networking",
+  OS: "Operating systems",
+  OTHER: "Other",
+};
